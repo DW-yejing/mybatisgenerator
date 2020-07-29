@@ -1,0 +1,3 @@
+/**
+ * mbg: mybatis generator
+ */
